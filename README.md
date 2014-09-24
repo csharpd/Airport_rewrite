@@ -8,7 +8,7 @@
 
 ### How to run it
 ```sh
-git clone https://github.com/csharpd/Chitter.git
+git clone https://github.com/csharpd/Airport_rewrite.git
 cd 3_traffic_control
 bundle
 irb
